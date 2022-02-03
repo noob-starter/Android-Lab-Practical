@@ -31,7 +31,7 @@ I:
     https://iconmonstr.com/ -----> for website Icons
     https://icon-icons.com/ -----> for website Icons
     https://www.iconfinder.com/ -----> for website Icons
-    https://thenounproject.com/ -----> for website Icons
+    
 
 
 
@@ -68,7 +68,7 @@ S:
 
 
 T:
-
+        https://thenounproject.com/ -----> for website Icons
 
 U:
 
@@ -78,8 +78,9 @@ V:
 
 
 
-W:
-
+W: 
+       https://www.wordtune.com/ -----> for professional correction of sentences
+     
 
 
 X:
